@@ -1,4 +1,4 @@
-# Hi there 👋 I'm JörnBachmeier
+# Hi there 👋 I'm Jörn Bachmeier
 
 **`Programmer (Developer/Data Scientist)`**
 
