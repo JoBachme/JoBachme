@@ -1,8 +1,12 @@
 # Hi there 👋 I'm Jörn Bachmeier
 
-**`Programmer (Developer/Data Scientist)`**
+**`Software Engineer | AI, Data Science & Backend Development`**
 
-I'm Jörn Bachmeier (yeah I often times have problems with my letter "ö") and currently I'm doing my master in computer science. I worked at many different projects and like to try out new things. At the moment I'm very interested in AI, Cloud Programming and Data Science, but I also programmed web aplications, software and games before. I like working in a team the most (not alone) and to be creative in every project.
+I'm Jörn Bachmeier, a computer scientist with a recently completed M.Sc. in Computer Science and around two years of hands-on experience in backend software development.
+
+My background combines **Java/Kotlin backend development**, **AI and NLP projects**, **data pipelines**, and **cloud-based system design**. During my studies and projects, I worked on topics such as **LLM-based question generation**, **document understanding**, **satellite data pipelines**, and **cloud-native microservice architectures**.
+
+I'm especially interested in building software where **engineering, data, and AI** come together in a practical way. I enjoy working in teams, learning new technologies quickly, and turning complex ideas into usable solutions.
 
 ---
 
@@ -10,6 +14,7 @@ I'm Jörn Bachmeier (yeah I often times have problems with my letter "ö") and c
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 <img align="left" alt="GoogleCloud" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
